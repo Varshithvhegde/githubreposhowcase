@@ -33,7 +33,7 @@
   - Change the Username to your Github Username
   - Save the file and run the project using live server
   - Check the live server in your browser
-  - Congrats 🎉  You have created a <b>Github Repo Showcase</b>.
+  - Congrats 🎉 You have successfully created a <b>Github Repo Showcase</b>.
 
 ## Demo
 
