@@ -24,6 +24,17 @@
     
     git clone https://github.com/Varshithvhegde/githubreposhowcase.git
 
+## Configuration 
+
+- For configuring your Github Profile follow following steps: 
+  - Clone the Project in your local machine
+  - Go to file <b>config.js</b>
+  - You will find this line <b>const  username="Varshithvhegde";</b>
+  - Change the Username to your Github Username
+  - Save the file and run the project using live server
+  - Check the live server in your browser
+  - Congrats 🎉 ! You have created a Github Repo Showcase.
+
 ## Demo
 
 - [Github Repo Showcase](https://Varshithvhegde.github.io/githubreposhowcase/)
