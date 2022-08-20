@@ -26,7 +26,7 @@
 
 ## Demo
 
-<iframe src="https://codester.io/Varshithvhegde/githubreposhowcase" width="100%" height="600px" frameborder="0"></iframe>
+- [Github Repo Showcase](https://Varshithvhegde.github.io/githubreposhowcase/)
 
 
 
