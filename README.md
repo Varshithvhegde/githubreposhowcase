@@ -31,6 +31,7 @@
 ## Screenshots
 
 <img alt="Screenshot" src="https://user-images.githubusercontent.com/80502833/185731180-bc481ebe-bc91-4c0d-b756-a75082afe201.png" />
+<p align="center">Screenshot credit <a href="https://browserframe.com/">BrowseFrame</a></p>
 
 
 
