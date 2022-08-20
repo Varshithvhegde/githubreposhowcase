@@ -1,4 +1,6 @@
-const username = "Varshithvhegde"
+import {username} from './config.js';
+//const username = "Varshithvhegde"
+
 // const username = prompt('Enter your GitHub username');
 const maxPages = 2;
 const repoList = document.querySelector('.repo-list');
