@@ -1,5 +1,5 @@
 <!--documentation for the project-->
-<h1 align="center">Welcome to CODESTER 👋</h1>
+<h1 align="center">Welcome to Github Project Showcase 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -30,7 +30,7 @@
 
 ## Screenshots
 
-<img alt="Screenshot" src="https://i.imgur.com/QQO0VHN.png" />
+<img alt="Screenshot" src="https://user-images.githubusercontent.com/80502833/185731180-bc481ebe-bc91-4c0d-b756-a75082afe201.png" />
 
 
 
