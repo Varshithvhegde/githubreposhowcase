@@ -184,7 +184,7 @@ h3 {
     background: var(--accent);
     border: 2px solid var(--text);
     transform: scale(1.1);
-    color: rgb(212, 212, 212) ;
+    color: rgb(255, 255, 255) ;
 }
 
 .repo-list p {
