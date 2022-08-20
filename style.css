@@ -184,7 +184,7 @@ h3 {
     background: var(--accent);
     border: 2px solid var(--text);
     transform: scale(1.1);
-    color: #000 ;
+    color: rgb(212, 212, 212) ;
 }
 
 .repo-list p {
@@ -192,6 +192,13 @@ h3 {
     margin: 0.5em 0;
 }
 
+.new{
+    padding: 10px 20px;
+    background: var(--bg-main);
+    border-radius: 30px;
+    border: 2px solid var(--accent);
+    color: var(--text);
+}
 @media (min-width: 700px) {
     .user-info div {
         width: 45%;

@@ -1,7 +1,7 @@
 import {username} from './config.js';
 //const username = "Varshithvhegde"
-
 // const username = prompt('Enter your GitHub username');
+
 const maxPages = 2;
 const repoList = document.querySelector('.repo-list');
 const reposSection = document.querySelector('.repos');
@@ -168,3 +168,15 @@ const devicons = {
     Vue: '<i class="devicon-vuejs-plain colored"></i> Vue',
     null: '<i class="devicon-markdown-original"></i> Markdown'
 };
+
+
+// const element = document.getElementById("yourusername");
+// element.addEventListener("click", getUserName);
+
+// function getUserName(){
+// //    username=prompt("Enter your name") ;
+//  var uname=prompt("Enter username");
+    
+
+ 
+// }
