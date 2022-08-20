@@ -28,6 +28,10 @@
 
 - [Github Repo Showcase](https://Varshithvhegde.github.io/githubreposhowcase/)
 
+## Screenshots
+
+<img alt="Screenshot" src="https://i.imgur.com/QQO0VHN.png" />
+
 
 
   
