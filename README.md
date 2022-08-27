@@ -19,13 +19,13 @@
 
 <h2>Installation</h2>
 <p>
-  To install the project, run the following command:
+  To install the project, run the following command :
 </p>
     
     git clone https://github.com/Varshithvhegde/githubreposhowcase.git
 
 ## Usage
-- Api used for this project is
+- Api used for this project is: 
 ```
   https://api.github.com/users/${username}
 ```
