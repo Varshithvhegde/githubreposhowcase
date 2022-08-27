@@ -24,6 +24,8 @@
     
     git clone https://github.com/Varshithvhegde/githubreposhowcase.git
 
+## Usage
+- Api for this project is
 ## Configuration 
 
 - For configuring your Github Profile follow following steps: 
