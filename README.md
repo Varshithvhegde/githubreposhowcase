@@ -27,7 +27,7 @@
 ## Usage
 - Api for this project is
 ```
-  
+  https://api.github.com/users/${username}
 ```
 
 ## Configuration 
