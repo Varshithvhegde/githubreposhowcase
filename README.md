@@ -25,7 +25,7 @@
     git clone https://github.com/Varshithvhegde/githubreposhowcase.git
 
 ## Usage
-- Api for this project is
+- Api used for this project is
 ```
   https://api.github.com/users/${username}
 ```
