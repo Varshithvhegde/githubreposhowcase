@@ -26,6 +26,10 @@
 
 ## Usage
 - Api for this project is
+```
+  
+```
+
 ## Configuration 
 
 - For configuring your Github Profile follow following steps: 
