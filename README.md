@@ -44,6 +44,7 @@
 ## Demo
 
 - [Github Repo Showcase](https://Varshithvhegde.github.io/githubreposhowcase/)
+- [https://varshith.tech](https://varshith.tech)
 
 ## Screenshots
 
